@@ -25,6 +25,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'administrate'
 gem 'bootstrap', '~> 4.0.0.alpha6'
+gem 'popper_js', '~> 1.11.1'
 gem 'bourbon'
 gem 'devise'
 gem 'devise_invitable'
